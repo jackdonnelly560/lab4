@@ -1,0 +1,299 @@
+Select debug or quiet mode (d/q): d
+
+Select send or receive (s/r): s
+
+Enter name of file to send with extension (name.ext): crest.jpg
+
+
+Send: Opening crest.jpg for input
+Send: Connecting...
+LL: Connected
+LLGOBS: Optimum size of data block is 130 bytes
+
+Send: Sending file name block, 11 bytes...
+
+checksum1:121
+LLS: Sent frame of 16 bytes, block 0, attempt 1
+LLGF: Timeout seeking START, 0 bytes received
+LLS: Timeout waiting for response
+LLS: Sent frame of 16 bytes, block 0, attempt 2
+checksum2:1
+LLS: ACK received, seq 0
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:216
+LLS: Sent frame of 136 bytes, block 1, attempt 1
+checksum2:2
+LLS: ACK received, seq 1
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:78
+LLS: Sent frame of 136 bytes, block 2, attempt 1
+checksum2:3
+LLS: ACK received, seq 2
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:75
+LLS: Sent frame of 136 bytes, block 3, attempt 1
+checksum2:4
+LLS: ACK received, seq 3
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:227
+LLS: Sent frame of 136 bytes, block 4, attempt 1
+checksum2:30
+LLS: Response received, type 26, seq 4
+LLS: Sent frame of 136 bytes, block 4, attempt 2
+checksum2:5
+LLS: ACK received, seq 4
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:219
+LLS: Sent frame of 136 bytes, block 5, attempt 1
+checksum2:6
+LLS: ACK received, seq 5
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:188
+LLS: Sent frame of 136 bytes, block 6, attempt 1
+checksum2:7
+LLS: ACK received, seq 6
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:45
+LLS: Sent frame of 136 bytes, block 7, attempt 1
+checksum2:8
+LLS: ACK received, seq 7
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:226
+LLS: Sent frame of 136 bytes, block 8, attempt 1
+checksum2:9
+LLS: ACK received, seq 8
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:169
+LLS: Sent frame of 136 bytes, block 9, attempt 1
+checksum2:10
+LLS: ACK received, seq 9
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:40
+LLS: Sent frame of 136 bytes, block 10, attempt 1
+checksum2:11
+LLS: ACK received, seq 10
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:48
+LLS: Sent frame of 136 bytes, block 11, attempt 1
+checksum2:12
+LLS: ACK received, seq 11
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:98
+LLS: Sent frame of 136 bytes, block 12, attempt 1
+checksum2:13
+LLS: ACK received, seq 12
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:251
+LLS: Sent frame of 136 bytes, block 13, attempt 1
+checksum2:14
+LLS: ACK received, seq 13
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:209
+LLS: Sent frame of 136 bytes, block 14, attempt 1
+checksum2:40
+LLS: Response received, type 26, seq 14
+LLS: Sent frame of 136 bytes, block 14, attempt 2
+checksum2:15
+LLS: ACK received, seq 14
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:18
+LLS: Sent frame of 136 bytes, block 15, attempt 1
+checksum2:16
+LLS: ACK received, seq 15
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:32
+LLS: Sent frame of 136 bytes, block 0, attempt 1
+checksum2:1
+LLS: ACK received, seq 0
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:145
+LLS: Sent frame of 136 bytes, block 1, attempt 1
+checksum2:2
+LLS: ACK received, seq 1
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:155
+LLS: Sent frame of 136 bytes, block 2, attempt 1
+checksum2:28
+LLS: Response received, type 26, seq 2
+LLS: Sent frame of 136 bytes, block 2, attempt 2
+checksum2:3
+LLS: ACK received, seq 2
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:8
+LLS: Sent frame of 136 bytes, block 3, attempt 1
+checksum2:4
+LLS: ACK received, seq 3
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:145
+LLS: Sent frame of 136 bytes, block 4, attempt 1
+checksum2:5
+LLS: ACK received, seq 4
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:233
+LLS: Sent frame of 136 bytes, block 5, attempt 1
+checksum2:6
+LLS: ACK received, seq 5
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:7
+LLS: Sent frame of 136 bytes, block 6, attempt 1
+checksum2:7
+LLS: ACK received, seq 6
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:6
+LLS: Sent frame of 136 bytes, block 7, attempt 1
+checksum2:8
+LLS: ACK received, seq 7
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:196
+LLS: Sent frame of 136 bytes, block 8, attempt 1
+checksum2:9
+LLS: ACK received, seq 8
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:172
+LLS: Sent frame of 136 bytes, block 9, attempt 1
+checksum2:10
+LLS: ACK received, seq 9
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:159
+LLS: Sent frame of 136 bytes, block 10, attempt 1
+checksum2:11
+LLS: ACK received, seq 10
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:72
+LLS: Sent frame of 136 bytes, block 11, attempt 1
+checksum2:12
+LLS: ACK received, seq 11
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:252
+LLS: Sent frame of 136 bytes, block 12, attempt 1
+checksum2:13
+LLS: ACK received, seq 12
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:121
+LLS: Sent frame of 136 bytes, block 13, attempt 1
+checksum2:39
+LLS: Response received, type 26, seq 13
+LLS: Sent frame of 136 bytes, block 13, attempt 2
+checksum2:14
+LLS: ACK received, seq 13
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:187
+LLS: Sent frame of 136 bytes, block 14, attempt 1
+checksum2:15
+LLS: ACK received, seq 14
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:84
+LLS: Sent frame of 136 bytes, block 15, attempt 1
+checksum2:16
+LLS: ACK received, seq 15
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:233
+LLS: Sent frame of 136 bytes, block 0, attempt 1
+checksum2:26
+LLS: Response received, type 26, seq 0
+LLS: Sent frame of 136 bytes, block 0, attempt 2
+checksum2:26
+LLS: Response received, type 26, seq 0
+LLS: Sent frame of 136 bytes, block 0, attempt 3
+checksum2:1
+LLS: ACK received, seq 0
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:29
+LLS: Sent frame of 136 bytes, block 1, attempt 1
+checksum2:2
+LLS: ACK received, seq 1
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:203
+LLS: Sent frame of 136 bytes, block 2, attempt 1
+checksum2:3
+LLS: ACK received, seq 2
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:183
+LLS: Sent frame of 136 bytes, block 3, attempt 1
+checksum2:4
+LLS: ACK received, seq 3
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:220
+LLS: Sent frame of 136 bytes, block 4, attempt 1
+checksum2:5
+LLS: ACK received, seq 4
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:182
+LLS: Sent frame of 136 bytes, block 5, attempt 1
+checksum2:6
+LLS: ACK received, seq 5
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:35
+LLS: Sent frame of 136 bytes, block 6, attempt 1
+checksum2:7
+LLS: ACK received, seq 6
+Send: Read 130 bytes from file, sending 131 bytes...
+
+checksum1:180
+LLS: Sent frame of 136 bytes, block 7, attempt 1
+checksum2:8
+LLS: ACK received, seq 7
+Send: Read 120 bytes from file, sending 121 bytes...
+
+checksum1:228
+LLS: Sent frame of 126 bytes, block 8, attempt 1
+checksum2:9
+LLS: ACK received, seq 8
+Send: End of input file after 5190 bytes
+
+checksum1:244
+LLS: Sent frame of 6 bytes, block 9, attempt 1
+checksum2:10
+LLS: ACK received, seq 9
+Send: Sent end block, 0 byte
+Send: Disconnecting...
+
+LL: Disconnected after 7.40 s.  Sent 49 data frames
+LL: Received 48 good and 0 bad frames, had 1 timeouts
+LL: Sent 0 ACKs and 0 NAKs
+LL: Received 42 ACKs and 6 NAKs
+
+File sent!
+
+Press enter key to end:
+
+Process returned 0 (0x0)   execution time : 228.971 s
+Press any key to continue.
