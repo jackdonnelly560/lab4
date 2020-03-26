@@ -1,4 +1,5 @@
-Select debug or quiet mode (d/q): d
+FATBOOBS
+
 
 Select send or receive (s/r): s
 
